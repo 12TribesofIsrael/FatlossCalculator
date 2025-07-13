@@ -2,6 +2,8 @@
 
 A powerful, science-based fat loss calculator built with React, TypeScript, and Tailwind CSS. Calculate your TDEE, calorie deficit, exercise requirements, and fat loss timeline with precision.
 
+**🌐 Live Demo: [https://luxury-croissant-7ad247.netlify.app/](https://luxury-croissant-7ad247.netlify.app/)**
+
 ![BMB AI Automations Logo](public/BMB%20AI%20Automations%20Logo.png)
 
 ## 🎯 About
@@ -43,6 +45,9 @@ Built with the philosophy: **Discipline > Excuses. Let's break cycles and burn f
 - **Educational Content** - Fat loss science explanations
 
 ## 🚀 Getting Started
+
+### 🌐 Try It Live
+**Visit the live application**: [https://luxury-croissant-7ad247.netlify.app/](https://luxury-croissant-7ad247.netlify.app/)
 
 ### Prerequisites
 - Node.js (v16 or higher)
